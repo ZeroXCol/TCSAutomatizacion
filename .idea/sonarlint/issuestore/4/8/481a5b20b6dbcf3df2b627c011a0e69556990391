@@ -1,0 +1,10 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°‚’şÿÿÿÿ
+z
+java:S1104"_Make seleccionarVehiculo a static final constant or non-public and provide accessors if needed.(¼“Œ úÿÿÿÿ
+p
+java:S1104"ZMake cantidadCuotas a static final constant or non-public and provide accessors if needed.(Œ¡äÖ
+T
+java:S1444"9Make this "public static seleccionarVehiculo" field final(¼“Œ úÿÿÿÿ
+J
+java:S1444"4Make this "public static cantidadCuotas" field final(Œ¡äÖ

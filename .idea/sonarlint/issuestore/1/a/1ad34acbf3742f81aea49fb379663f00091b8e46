@@ -1,0 +1,11 @@
+
+X
+java:S1854"BRemove this useless assignment to local variable "navegarEnLaWeb".(ÔÆÆ
+I
+java:S1481"3Remove this unused "navegarEnLaWeb" local variable.(ÔÆÆ
+J
+java:S1128"4Remove this unused import 'io.cucumber.java.Before'.(£½”Ü
+W
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8Ö¡Ôè°1
+`
+java:S1128	"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8šŒ¼°1
